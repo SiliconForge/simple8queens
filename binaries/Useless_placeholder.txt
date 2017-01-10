@@ -1,0 +1,1 @@
+This file is here so the folder structure on git's server is not broken on commiting, which makes the makefile not want to run the compilation process
